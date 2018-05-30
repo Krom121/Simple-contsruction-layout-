@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Lobster:100,200,300,400,500,600,700');
+/*---------- Main CSS For Web Disign -------------*/
+body {
+  font-size: 22px;
+  font-family: "Lobster", Arial, Helvetica, sans-serif;
+  background-color: #fee;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+
+
+section {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+h1,h2,h3,h4,h5 {
+  text-align: center;
+  padding: 5px;
+}
+
+p {
+  text-align: center;
+  padding: 15px;
+}
+
+/*------- Contact Forms -------*/
+form {
+  margin: 0 auto;
+}
+label {
+  font-size: 18px;
+  padding: 5px;
+  margin: 3px;
+}
+
+input {
+  padding: 5px;
+  margin: 6px;
+}
+
+.btn {
+  padding: 15px;
+  margin: 10px;
+}
+
+/*------- Images -------*/
+img {
+  width: 100%;
+  margin: 10px;
+}
+
+#img-icon {
+  width: 75%;
+  padding: 5px;
+  margin: 0;
+}
+
+.img-services {
+  width: 100%;
+  margin: 10px;
+}
+/*---- Footer -------*/
+footer {
+  color: #fff;
+  background-color: #344;
+}
+
+#footer-links {
+  text-align: center;
+  color: #fff;
+  padding: 5px; 
+}
+
+#footer-links li {
+  list-style-type: none;
+  padding: 3px;
+  margin: 3px;
+}
+
+#footer-links a {
+  color: #fff;
+}
